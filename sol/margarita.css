@@ -1,0 +1,32 @@
+
+#div3{
+float:center;
+background:#b3e5fc;
+width: 85%;
+  min-height:1000px;
+   font-family: calibri;
+   color:#0a0a0a;
+}
+#div2{
+float:center;
+background:#b3e5fc;
+width: 99%;
+  min-height:400px;
+   font-family: Calibri;
+   color:#0a0a0a;
+}
+
+h4 {
+	color:#0a0a0a;{
+
+
+#mapa{
+width: 432px;
+height: auto;
+overflow: hidden;
+border: 1px solid #ccc;
+padding: 5px;
+float: right;
+}
+
+	
