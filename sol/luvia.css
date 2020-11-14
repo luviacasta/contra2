@@ -1,5 +1,5 @@
 form{
-  padding: 60px;
+ padding: 60px;
   max-width: 400px;
   background-color: #b3e5fc;
   margin: 0 auto;
@@ -33,4 +33,6 @@ color: black; text-shadow: white 0.1em 0.1em 0.2em
 form{
   color:#0a0a0a;
 }
-  
+  a:hover{
+color: white;
+background: pink;
