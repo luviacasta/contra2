@@ -3,12 +3,12 @@ form{
   max-width: 400px;
   background-color: #8a516e73;
   margin: 0 auto;
-  font-family: cursive;
+  font-family: serif;
   color:#0a0a0a; 
 }
 form input{
   margin-bottom: 12px;
-  font-family: fantasy;
+  font-family: serif;
   width: 50%;
   padding: 10px;
   color: #0a0a0a;
@@ -19,7 +19,7 @@ form input{
 h1{
   color:#0a0a0a;
   font-size: 20;
-   font-family: calibri;
+   font-family: serif;
 }
 
 h2
