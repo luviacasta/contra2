@@ -10,7 +10,8 @@ float:center;
 background:#b3e5fc;
 width: 85%;
   min-height:1000px;
-   font-family: calibri;
+   font-family: Ink Free;
+
    color:#0a0a0a;
 }
 #div2{
@@ -18,12 +19,19 @@ float:center;
 background:#b3e5fc;
 width: 99%;
   min-height:400px;
-   font-family: Calibri;
+   font-family: Ink Free;
+    font-size:20pt;
    color:#0a0a0a;
 }
 
 h4 {
-	color:#0a0a0a;{
+	color:#0a0a0a;
+	   font-family: Ink Free;
+	   font-size:20pt;
+{
+h3 {
+	   font-family: Ink Free;
+{
 
 
 #mapa{
